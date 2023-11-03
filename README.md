@@ -1,2 +1,2 @@
 # ITP
-pages related tot he farm and the PATH project
+pages related to the farm and the PATH project
